@@ -191,7 +191,7 @@ export default function NewOne() {
                     </button>
 
                     <GoogleLogin
-                      clientId="665297845906-ctnubc7ismn2ka0r6vj2hfadpbdsdlum.apps.googleusercontent.com"
+                      clientId="665297845906-hppll8qdgqpeibcgie6r24tordl5ig6i.apps.googleusercontent.com"
                       render={(renderProps) => (
                         <button
                           class="btn border border-dark  mt-2 btn-block w-100"
@@ -296,7 +296,7 @@ export default function NewOne() {
                       <img src={fb} alt="" /> Sign up with Facebook
                     </button>
                     <GoogleLogin
-                      clientId="665297845906-ctnubc7ismn2ka0r6vj2hfadpbdsdlum.apps.googleusercontent.com"
+                      clientId="665297845906-hppll8qdgqpeibcgie6r24tordl5ig6i.apps.googleusercontent.com"
                       render={(renderProps) => (
                         <button
                           class="btn border border-dark  mt-2 btn-block w-100"
@@ -327,7 +327,7 @@ export default function NewOne() {
                       </Link>
                     </div>
                   </div>
-                  <div className="mod-2 col-md-6 mt-5">
+                  <div className="mod-2 col-md-6 mt-5 d-none d-md-block d-sm-none ">
                     <img className="w-100" src={atg} alt="" />
                   </div>
                 </div>
